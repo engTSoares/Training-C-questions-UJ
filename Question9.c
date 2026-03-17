@@ -2,10 +2,10 @@
 
 int main(){
     int numUm, numDois, resto;
-    printf("Insira um numero:");
+    printf("Insira o dividendo:");
     scanf("%d", &numUm);
 
-    printf("Insira outro numero:");
+    printf("Insira o dividor:");
     scanf("%d", &numDois);
 
     resto=numUm % numDois;
