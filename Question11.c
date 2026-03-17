@@ -5,7 +5,7 @@ int main(){
     
     //loop para adicionar numeros ao array
     for(int j=0; j<5 ; j++){
-        printf("Insira um numero:\n");
+        printf("Insira um numero:");
         scanf("%d",&armazenamentoNumeros[j]);
     }
 
